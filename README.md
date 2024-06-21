@@ -4,7 +4,7 @@ A variation detection tool for short tandem repeat based on HiFi sequencing data
 # Installation
 
 ```shell
-git clone 
+git clone https://github.com/11malong/Graduation-project.git
 cd Graduation-project
 mamba env create -f ./mshunter_env.yaml
 conda activate mshunter_env
