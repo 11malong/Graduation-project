@@ -1,17 +1,11 @@
 # Graduation-project
 A variation detection tool for short tandem repeat based on HiFi sequencing data.
 
-# MShunter
-
-MSHunter is still in development. Please report bugs via [GitHub issues](https://github.com/microsatellites/MSHunter/issues/new).
-
-If you have any question about this software, please contact with Peng Jia (pengjia@stu.xjtu.edu.cn)
-
 # Installation
 
 ```shell
-git clone https://github.com/microsatellites/MSHunter.git
-cd MSHunter
+git clone 
+cd Graduation-project
 mamba env create -f ./mshunter_env.yaml
 conda activate mshunter_env
 python setup.py
